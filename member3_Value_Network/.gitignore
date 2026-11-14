@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# Dữ liệu và model lớn: không commit
+evaluation/data/raw/
+evaluation/data/*.pgn*
+evaluation/data/*.zst
+*.h5
+checkpoints/
+.ipynb_checkpoints/
