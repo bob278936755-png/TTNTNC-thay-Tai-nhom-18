@@ -8,5 +8,6 @@ evaluation/data/raw/
 evaluation/data/*.pgn*
 evaluation/data/*.zst
 *.h5
+*.keras
 checkpoints/
 .ipynb_checkpoints/

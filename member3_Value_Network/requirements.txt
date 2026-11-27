@@ -1,2 +1,5 @@
 chess>=1.10
 pytest>=7.0
+numpy>=1.24
+tensorflow>=2.15
+matplotlib>=3.7
